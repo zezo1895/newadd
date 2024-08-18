@@ -1,0 +1,12 @@
+.card {
+  cursor: pointer;
+  transition: 1s;
+  overflow: hidden;
+}
+.card:hover {
+  box-shadow: 6px 6px 20px 20px rgba(74, 158, 255, 0.15);
+  transform: rotate(2deg) scale(1.05);
+  overflow: hidden;
+
+  transition: 1s;
+}
